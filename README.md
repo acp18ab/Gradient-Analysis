@@ -10,6 +10,3 @@ The gradient, or rate of change, in time-series analysis is highly significant f
    showing how data is likely to evolve over time.
 4. **Machine Learning Input**: Gradients can be used as features in machine learning models for time-series 
    data to capture trends beyond raw values.
-
-In healthcare, such as glucose monitoring, gradient analysis can reveal rapid changes in glucose levels, helping 
-to detect conditions like hyperglycemia or hypoglycemia and enabling timely interventions.
