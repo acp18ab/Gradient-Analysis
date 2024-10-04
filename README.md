@@ -15,7 +15,7 @@ The gradient, or rate of change, in time-series analysis is highly significant f
 
 ![Glucose Gradient Plot](https://github.com/acp18ab/Gradient-Analysis/blob/main/glucose_gradient_plot_days.jpg?raw=true)
 
-This graph shows daily glucose levels (blue line) and their rate of change (red dashed line) over a 10-day period. The glucose level line shows how the values increase, decrease, or stabilize each day. The gradient line, which represents the rate of change, indicates whether glucose levels are rising (positive gradient) or falling (negative gradient) from one day to the next. Together, these lines provide a clear view of how glucose levels fluctuate and the speed of those changes across the days.
+This graph shows daily glucose levels (blue line) and their rate of change (red dashed line) over a 10-day period. The glucose level line shows how the values increase, decrease, or stabilize each day. The gradient line, which represents the rate of change, indicates whether glucose levels are rising (positive gradient) or falling (negative gradient) from one day to the next. Together, these lines provide a clear view of how glucose levels fluctuate across the days.
 
 References:
 1. https://365datascience.com/tutorials/python-tutorials/xgboost-lgbm/
