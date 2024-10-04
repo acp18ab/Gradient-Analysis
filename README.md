@@ -10,3 +10,9 @@ The gradient, or rate of change, in time-series analysis is highly significant f
    showing how data is likely to evolve over time.
 4. **Machine Learning Input**: Gradients can be used as features in machine learning models for time-series 
    data to capture trends beyond raw values.
+
+References:
+1. https://365datascience.com/tutorials/python-tutorials/xgboost-lgbm/
+2. https://www.tableau.com/analytics/what-is-time-series-analysis
+3. https://pwskills.com/blog/time-series-analysis-in-data-science-a-step-by-step-guide/
+4. https://machinelearningmastery.com/xgboost-for-time-series-forecasting/
